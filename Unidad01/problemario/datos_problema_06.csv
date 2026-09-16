@@ -1,4 +1,4 @@
-superficie_del_lote_(m2),precio_(millones_pesos)
+superficie_del_lote(m2),precio_(millones_pesos)
 90,1.72
 105,1.88
 120,2.05
